@@ -1,0 +1,6 @@
+{
+  "name": "PhysioAssess Pro - Comprehensive Physiotherapy Patient Assessment & Documentation System",
+  "description": "Clinical-grade physiotherapy patient assessment and documentation system with dynamic specialty-tailored examination modules, ICF diagnostics, auto-saving local storage, and professional clinical reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
